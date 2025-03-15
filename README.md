@@ -21,7 +21,7 @@ This **Dynamo script** automates clash detection in **Revit** using **Navisworks
 - **Revit 2023+**
 - **Dynamo 2.12+**
 - **Navisworks Manage 2023+**
-- Required Dynamo Packages: `Clockwork`, `Data-Shapes`, `archi-lab`, `Spring Nodes`
+
 
 ##  How to Use
 1. Download `workflow.dyn` and open it in **Dynamo**.
